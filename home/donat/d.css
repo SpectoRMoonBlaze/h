@@ -4,13 +4,12 @@ body{
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-attachment: fixed;
-	font-family: sans-serif;
-	font-family: 'Permanent Marker', cursive;
+font-family: 'Bangers';
 }
 
 .form {
-	width: 700px;
-	height: 800px;
+	width: 800px;
+	height: 1000px;
 	position: absolute;
 	top: 82%;
 	left: 50%;
@@ -66,13 +65,9 @@ a {
 	border: 1px solid #fff;
 	box-sizing: border-box;
 }
-.block3{
-	position: absolute;
-	top: 100%;
-}
 
-.block4{
+.block1{
 	position: absolute;
-	top: 140%;
-	opacity: 0%;
+	top: 3% ;
+	left:15%;
 }
